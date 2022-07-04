@@ -1,0 +1,27 @@
+section{
+    margin: 25px;
+}
+
+.imgOne{
+    width: 150px;
+    height: 150px;
+    background-color: orange;
+
+    float: left;
+    margin-right: 10px;
+}
+.imgTwo{
+    width: 150px;
+    height: 150px;
+    background-color: darkcyan;
+
+    float: left;
+    margin-right: 10px;
+}
+.imgThree{
+    width: 150px;
+    height: 150px;
+    background-color: orangered;
+
+    float: left;
+}
